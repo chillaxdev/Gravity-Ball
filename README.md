@@ -27,8 +27,6 @@ This game doesn't use any 3rd party 2d game engines. Long back we didn't have an
 8. Cheats System
 
 ![Screenshot](/Screenshot/Screenshot_18.png?raw=true)
-![Screenshot](/Screenshot/Screenshot_9.png?raw=true)
-
 
 ## Getting Started
 

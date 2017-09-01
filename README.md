@@ -1,5 +1,5 @@
 # Gravity-Ball
-![Screenshot](/Screenshot/Screenshot_2.png?raw=true)
+
 
 Gravity ball is a 2d game which is inspired from [Gravity Guy](http://www.y8.com/games/gravity_guy). This game compiles only on Borland discontinued Turbo C++ compiler. I've seen many schools and colleges (especially India) still using this ancient compiler. When I googled for turbo c++ projects. I didn't find any good Object oriented programming with this compiler. Most students are often confused with OOP (assuming students are very clear about procedural programming). Hence I made it public with the only intention to do knowledge sharing.
 
@@ -7,9 +7,6 @@ In case you're going to use this for your project. Just keep these things in min
 
 This game doesn't use any 3rd party 2d game engines. Long back we didn't have any open source game engines (Every game company had their own game engines). So I had to create my own small 2d physics engine.
 
-![Screenshot](/Screenshot/Screenshot_5.png?raw=true)
-![Screenshot](/Screenshot/Screenshot_14.png?raw=true)
-![Screenshot](/Screenshot/Screenshot_15.png?raw=true)
 ## Features
 
 1. Smooth UI & UX
@@ -20,9 +17,6 @@ This game doesn't use any 3rd party 2d game engines. Long back we didn't have an
 6. Leaderboard System
 7. Level Editor (Multiple modes available for easy editing)
 8. Cheats System
-
-![Screenshot](/Screenshot/Screenshot_17.png?raw=true)
-![Screenshot](/Screenshot/Screenshot_18.png?raw=true)
 
 ## Getting Started
 
@@ -42,3 +36,12 @@ There might be small glitches in the game. Please feel free to report in the Iss
 ## Contact
 
 In case if you want to personally contact me. Feel free to add me on facebook [@shivlikescomputer](https://www.facebook.com/shivlikescomputer)
+
+## Screenshot
+
+![Screenshot](/Screenshot/Screenshot_2.png?raw=true)
+![Screenshot](/Screenshot/Screenshot_5.png?raw=true)
+![Screenshot](/Screenshot/Screenshot_14.png?raw=true)
+![Screenshot](/Screenshot/Screenshot_15.png?raw=true)
+![Screenshot](/Screenshot/Screenshot_17.png?raw=true)
+![Screenshot](/Screenshot/Screenshot_18.png?raw=true)

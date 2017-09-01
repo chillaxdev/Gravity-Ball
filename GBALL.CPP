@@ -4,15 +4,12 @@
  #       #     #   #   #     #
  #       #     #   #   #     #
  #####   #######   #   #     #
- #  #     #   #    #   #
- #    #  #     #   #     # #
+     #   #     #   #   #     #
+     #   #     #   #    #   #
  #####   #     #  ###     #
    ---------------------------
    ///     MAIN FILE      ///
    --------------------------
-   Computer Science Project
-   Done by: R.P. Shiv Sankar
-   Class: 12C24
  */
 
 #include <iostream.h>

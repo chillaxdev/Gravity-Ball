@@ -19,3 +19,7 @@ You can use your own IDE like Atom, Sublime Text, etc and cross link with this c
 ## Note
 
 There might be small glitches in the game. Please feel free to report in the Issues and I'll get it fixed ASAP. Actually I've done this project for my boardz in the last minute (1 week I think) hahahaha. One more thing, this ancient compiler doesn't allow us to allocate many heap memory. So I was forced to use OOP with normal class instances. I've still used Heap for points system. Hence there is a limit for storing points. Finally, it isin't the best efficient code but I'll make it better in the future versions.
+
+## Contact
+
+In case if you want to personally contact me. Feel free to add me on facebook [@shivlikescomputer] (https://www.facebook.com/shivlikescomputer)

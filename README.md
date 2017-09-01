@@ -22,4 +22,4 @@ There might be small glitches in the game. Please feel free to report in the Iss
 
 ## Contact
 
-In case if you want to personally contact me. Feel free to add me on facebook [@shivlikescomputer] (https://www.facebook.com/shivlikescomputer)
+In case if you want to personally contact me. Feel free to add me on facebook [@shivlikescomputer](https://www.facebook.com/shivlikescomputer)

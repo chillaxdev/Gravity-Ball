@@ -3,7 +3,7 @@ Gravity ball is a game which is inspired from [Gravity Guy](http://www.y8.com/ga
 
 In case you are going to use this for your project. Just keep these things in mind. First of all analyse this project completely. Don't simply submit this project as it is. Instead create your own from scratch. Learn the beauty of object oriented programming. Learn the way I've merged classes. Learn the way I’ve done parallel programming. Learn the way I've formatted the code. Learn the way I've declared simple, camelCased, and PascalCased variables. You have to think, plan, and analyse before you create any classes. You have to think only in terms of objects. I’ve made as many comments as possible. But its upto you, good luck!
 
-This game doesn't use any 3rd party 2d game engines. Long back we didn't have any open source game engines (Every game companies had their own game engines). So I had to create my own small 2d physics engine. Okay now lets get started with the project.
+This game doesn't use any 3rd party 2d game engines. Long back we didn't have any open source game engines (Every game company had their own game engines). So I had to create my own small 2d physics engine. Okay now lets get started with the project.
 
 ## Getting Started
 

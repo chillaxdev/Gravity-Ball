@@ -37,3 +37,7 @@ There might be small glitches in the game. Please feel free to report in the iss
 In case if you want to personally contact me. Feel free to add me on facebook [@shivlikescomputer](https://www.facebook.com/shivlikescomputer)
 
 ![Screenshot](/Screenshot/Screenshot_17.png?raw=true)
+
+## License
+
+This repository uses [GNU General Public License v3.0](https://raw.githubusercontent.com/shiv-sankar/Gravity-Ball/master/LICENSE). Feel free to download, modify, and redistribute but make sure you link this repo along with yours.

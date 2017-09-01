@@ -9,7 +9,7 @@ This game doesn't use any 3rd party 2d game engines. Long back we didn't have an
 
 1. Set up your IDE (Integrated development environment) first. You can download the Turbo C++ 4.0 compiler for Windows 7/8/10 32bit program (you will require dosbox to run 16bit files) from [here](https://drive.google.com/file/d/0B_LCZZjtZ3WPUFVxanFNM2tNWk0/view?usp=sharing).
 2. Now download the project to your computer. Click on Clone/Download button from this page in case you don't have GIT.
-3. Now extract and paste the files in the BIN directory of your Turbo C++ IDE.
+3. Now extract and paste the contents of Project folder inside the BIN directory of your Turbo C++ IDE.
 4. Now open the Turbo C++ IDE and open GBALL.CPP
 5. Use the linker from the Menu and enable BGI Graphics.
 6. Now time to execute (CTRL + F9)

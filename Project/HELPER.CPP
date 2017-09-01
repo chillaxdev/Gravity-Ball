@@ -10,7 +10,9 @@
 --------------------------------
  ///      HELPER FILE       ///
 --------------------------------
- */
+To get the updated version visit:
+https://github.com/shiv-sankar/Gravity-Ball
+*/
 
 #include <iostream.h>
 #include <string.h>
@@ -257,3 +259,8 @@ void close() {
 }
 
 };
+
+/*
+To get the updated version visit:
+https://github.com/shiv-sankar/Gravity-Ball
+*/

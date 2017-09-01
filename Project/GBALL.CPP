@@ -12,7 +12,7 @@
 --------------------------------
 To get the updated version visit:
 https://github.com/shiv-sankar/Gravity-Ball
- */
+*/
 
 #include <iostream.h>
 #include <math.h>

@@ -7,6 +7,6 @@ This game doesn't use any 3rd party 2d game engines. Long back we didn't have an
 
 ## Getting Started
 
-1. Set up your IDE (Integrated development environment) first. You can download the Turbo C++ compiler for Windows 7/8/10 from [here] (https://drive.google.com/file/d/0B_LCZZjtZ3WPUFVxanFNM2tNWk0/view?usp=sharing)
+1. Set up your IDE (Integrated development environment) first. You can download the Turbo C++ 4.0 compiler for Windows 7/8/10 32bit program (since it is 16 bit you will need dosbox to run 16bit files) from [here](https://drive.google.com/file/d/0B_LCZZjtZ3WPUFVxanFNM2tNWk0/view?usp=sharing)
 
 

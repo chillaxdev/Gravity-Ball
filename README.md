@@ -1,7 +1,7 @@
 # Gravity-Ball
 ![Screenshot](/Screenshot/Screenshot_2.png?raw=true)
 
-Gravity ball is a game which is inspired from [Gravity Guy](http://www.y8.com/games/gravity_guy). This game compiles only on Borland discontinued Turbo C++ compiler. I've seen many schools and colleges (especially India) still using this ancient compiler. When I googled for turbo c++ projects. I didn't find any good Object oriented programming with this compiler. Most students are often confused with OOP (assuming students are very clear about procedural programming). Hence I made it public with the only intention to do knowledge sharing.
+Gravity ball is a 2d game which is inspired from [Gravity Guy](http://www.y8.com/games/gravity_guy). This game compiles only on Borland discontinued Turbo C++ compiler. I've seen many schools and colleges (especially India) still using this ancient compiler. When I googled for turbo c++ projects. I didn't find any good Object oriented programming with this compiler. Most students are often confused with OOP (assuming students are very clear about procedural programming). Hence I made it public with the only intention to do knowledge sharing.
 
 ![Screenshot](/Screenshot/Screenshot_5.png?raw=true)
 

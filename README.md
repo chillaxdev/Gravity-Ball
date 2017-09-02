@@ -30,7 +30,7 @@ You can use your own IDE like Atom, Sublime Text, etc and cross link with this c
 
 ## Note
 
-There might be small glitches in the game. Please feel free to report in the issues section. One more thing, this ancient compiler doesn't allow us to allocate many heap memory. So I was forced to use OOP with normal class instances. I've still used Heap for points system. Hence there is a limit for storing points. Finally, it isin't the best efficient code but I'll make it better in the future versions.
+There might be small glitches in the game. If you found one kindly report it in the issues section. One more thing, this ancient compiler doesn't allow us to allocate many heap memory. So I was forced to use OOP with normal class instances. I've still used Heap for points system. Hence there is a limit for storing points. Finally, it isin't the best efficient code but I'll make it better in the future versions.
 
 ## Contact
 

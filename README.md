@@ -1,6 +1,6 @@
 # Gravity-Ball
 
-Gravity ball is a 2d game which is inspired from [Gravity Guy](http://www.y8.com/games/gravity_guy). This game compiles only on Borland discontinued Turbo C++ compiler. This game doesn't use any 3rd party 2d game engines. Long back we didn't have any open source game engines (Every game company had their own game engines). So I had to create my own small 2d physics engine.
+Gravity ball is a 2d game which is inspired from [Gravity Guy](http://www.y8.com/games/gravity_guy) and created from the scratch. This game compiles only on Borland discontinued Turbo C++ compiler. This game doesn't use any 3rd party 2d game engines. Long back we didn't have any open source game engines (Every game company had their own game engines). So I had to create my own small 2d physics engine.
 
 ## Features
 

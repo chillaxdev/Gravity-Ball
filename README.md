@@ -1,6 +1,6 @@
 # Gravity-Ball
 
-Gravity ball is a 2d game which is inspired from [Gravity Guy](http://www.y8.com/games/gravity_guy) and created from the scratch. This game compiles only on Borland discontinued Turbo C++ compiler. This game doesn't use any 3rd party 2d game engines. Long back we didn't have any open source game engines (Every game company had their own game engines). So I had to create my own small 2d physics engine.
+Gravity ball is a 2d game which is inspired from [Gravity Guy](http://www.y8.com/games/gravity_guy) and created from the scratch. This game compiles only on C++ 99. This game doesn't use any 3rd party 2d game engines. Long back we didn't have any open source game engines (Every game company had their own game engines). So I had to create my own small 2d physics engine.
 
 ## Features
 
@@ -22,11 +22,11 @@ Gravity ball is a 2d game which is inspired from [Gravity Guy](http://www.y8.com
 5. Use the linker from the Menu and enable BGI Graphics.
 6. Now time to execute (CTRL + F9)
 
-You can use your own IDE like Atom, Sublime Text, etc by cross-linking it with command line interface of 16bit compiler and execute the program. There are infinitely many ways.
+You can use your own IDE like Atom, Sublime Text, etc by cross-linking it with command line interface of 16bit compiler and execute the program. Feel free to try your own ways.
 
 ## Note
 
-There might be small glitches in the game. If you found one kindly report it in the issues section. One more thing, this ancient compiler doesn't allow us to allocate many heap memory. So I was forced to use OOP with normal class instances. I've still used Heap for points system. Hence there is a limit for storing points. Finally, it isin't the best efficient code but I'll make it better in the future versions.
+There might be small glitches in the game. If you found one kindly report it in the issues section. One more thing, this ancient compiler doesn't allow us to allocate many heap memory. So I was forced to use OOP with normal class instances. I've still used Heap for points system. Hence there is a limit for storing points.
 
 ## Contact
 

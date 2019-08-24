@@ -30,7 +30,7 @@ There might be small glitches in the game. If you found one kindly report it in 
 
 ## Contact
 
-In case if you want to personally contact me. Feel free to add me on facebook [@shivlikescomputer](https://www.facebook.com/shivlikescomputer)
+In case if you want to personally contact me. Feel free to add me on facebook [@shivrps1999](https://www.facebook.com/shivrps1999)
 
 ![Screenshot](/Screenshot/Screenshot_17.png?raw=true)
 

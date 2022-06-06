@@ -1,6 +1,6 @@
 # Gravity-Ball
 
-Gravity ball is a 2d game which is inspired from [Gravity Guy](http://www.y8.com/games/gravity_guy) and created from the scratch. This game compiles only on C++ 99. This game doesn't use any 3rd party 2d game engines. Long back we didn't have any open source game engines (Every game company had their own game engines). So I had to create my own small 2d physics engine.
+Gravity ball is a 2d game which is inspired from [Gravity Guy](http://www.y8.com/games/gravity_guy) and created from the scratch. This game compiles only on C++ 98. This game doesn't use any 3rd party 2d game engines. I had to create my own small 2d physics engine.
 
 ## Features
 
@@ -26,11 +26,8 @@ You can use your own IDE like Atom, Sublime Text, etc by cross-linking it with c
 
 ## Note
 
-There might be small glitches in the game. If you found one kindly report it in the issues section. One more thing, this ancient compiler doesn't allow us to allocate many heap memory. So I was forced to use OOP with normal class instances. I've still used Heap for points system. Hence there is a limit for storing points.
+I've still used Heap for points system. Hence there is a limit for storing points.
 
-## Contact
-
-In case if you want to personally contact me. Feel free to add me on facebook [@shivrps1999](https://www.facebook.com/shivrps1999)
 
 ![Screenshot](/Screenshot/Screenshot_17.png?raw=true)
 
